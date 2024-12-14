@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+  <div id="badges">
+    <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there!
+    </h1>
+  </div>
+</div>
 
 <!--
 **Hrpl/Hrpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
